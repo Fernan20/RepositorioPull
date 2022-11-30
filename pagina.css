@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    color: white;
+    font-family: 'calibri';
+}
+
+header {
+    background: url('hunter.jpg');
+    height: 8Ria50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+section {
+    min-width: 1000px;
+    margin: auto;
+    padding: 30px 0;
+}
+
+section h1 {
+    font-size: 44px;
+
+}
+
+.conte {
+    text-align: center;
+}
+
+.conte p {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 1em 0;
+}
+
+.conte a {
+    color: white;
+    text-decoration: none;
+    background: #8bc34a;
+    padding: 4px 20px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 10px;
+
+
+}
+
+section{
+    color: black;
+   
+
+    
+}
+
+.ContenidoDes{
+   
+    text-align: center;
+    height: 300px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 15%;
+}
+img{
+    
+}
